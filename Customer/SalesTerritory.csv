@@ -1,0 +1,639 @@
+StoreID,TerritoryID,AccountNumber,SalesTerritoryName,CountryRegionCode,Group,StoreName,SalesPersonID
+292,5,AW00029484,Southeast,US,North America,Next-Door Bike Store,279
+294,4,AW00029485,Southwest,US,North America,Professional Sales and Service,276
+296,3,AW00029486,Central,US,North America,Riders Company,277
+298,2,AW00029487,Northeast,US,North America,The Bike Mechanics,275
+300,9,AW00029488,Australia,AU,Pacific,Nationwide Supply,286
+302,4,AW00029489,Southwest,US,North America,Area Bike Accessories,281
+304,1,AW00029490,Northwest,US,North America,Bicycle Accessories and Kits,283
+306,5,AW00029491,Southeast,US,North America,Clamps & Brackets Co.,275
+308,3,AW00029492,Central,US,North America,Valley Bicycle Specialists,277
+310,5,AW00029493,Southeast,US,North America,New Bikes Company,279
+312,6,AW00029494,Canada,CA,North America,Vinyl and Plastic Goods Corporation,282
+314,8,AW00029495,Germany,DE,Europe,Top of the Line Bikes,288
+316,4,AW00029496,Southwest,US,North America,Fun Toys and Bikes,281
+318,1,AW00029497,Northwest,US,North America,Great Bikes ,283
+320,2,AW00029498,Northeast,US,North America,Metropolitan Sales and Rental,275
+324,6,AW00029499,Canada,CA,North America,Valley Toy Store,282
+326,5,AW00029500,Southeast,US,North America,Worthwhile Activity Store,279
+328,2,AW00029501,Northeast,US,North America,Purchase Mart,275
+330,1,AW00029502,Northwest,US,North America,Major Sport Suppliers,283
+332,6,AW00029503,Canada,CA,North America,Family's Favorite Bike Shop,278
+334,5,AW00029504,Southeast,US,North America,Global Plaza,279
+336,1,AW00029505,Northwest,US,North America,Imported and Domestic Cycles,276
+338,4,AW00029506,Southwest,US,North America,Systematic Sales,281
+340,5,AW00029507,Southeast,US,North America,eCommerce Bikes,279
+342,4,AW00029508,Southwest,US,North America,Mountain Toy Store,277
+344,2,AW00029509,Northeast,US,North America,Retail Sales and Service,275
+346,6,AW00029510,Canada,CA,North America,Designated Distributors,282
+348,3,AW00029511,Central,US,North America,Bold Bike Accessories,276
+350,9,AW00029512,Australia,AU,Pacific,Twin Cycles,286
+352,5,AW00029513,Southeast,US,North America,Tiny Bike Boutique,279
+354,5,AW00029514,Southeast,US,North America,Acclaimed Bicycle Company,279
+356,6,AW00029515,Canada,CA,North America,Serious Cycles,278
+358,9,AW00029516,Australia,AU,Pacific,Quality Bike Sales,286
+360,3,AW00029517,Central,US,North America,Novelty Bikes,275
+362,5,AW00029518,Southeast,US,North America,Distinctive Cycles Sales & Service,279
+364,5,AW00029519,Southeast,US,North America,Leading Bike Distributors,279
+366,5,AW00029520,Southeast,US,North America,Activity Center,279
+368,1,AW00029521,Northwest,US,North America,Brightwork Company,281
+370,4,AW00029522,Southwest,US,North America,Resale Services,276
+372,4,AW00029523,Southwest,US,North America,The Gear Store,277
+374,3,AW00029524,Central,US,North America,Immense Manufacturing Company,277
+376,4,AW00029525,Southwest,US,North America,Extended Bike Sales,276
+378,8,AW00029526,Germany,DE,Europe,Pedaling Components,288
+380,6,AW00029527,Canada,CA,North America,Workout Emporium,282
+382,3,AW00029528,Central,US,North America,Work and Play Association,275
+384,9,AW00029529,Australia,AU,Pacific,Seaside Bike Works,286
+386,6,AW00029530,Canada,CA,North America,Nice Bikes,278
+388,1,AW00029531,Northwest,US,North America,Remarkable Bike Store,276
+390,1,AW00029532,Northwest,US,North America,Road-Way Mart,283
+392,3,AW00029533,Central,US,North America,Small Cycle Store,275
+394,5,AW00029534,Southeast,US,North America,Blue-Ribbon Bike Company,279
+398,4,AW00029535,Southwest,US,North America,Grand Bicycle Stores,277
+406,3,AW00029536,Central,US,North America,Kickstand Sellers,275
+408,9,AW00029537,Australia,AU,Pacific,Nearest Bike Store,286
+410,9,AW00029538,Australia,AU,Pacific,Fast Bike Works,286
+412,6,AW00029539,Canada,CA,North America,Gasless Cycle Shop,278
+414,5,AW00029540,Southeast,US,North America,Lubricant and Grease Suppliers,279
+418,6,AW00029541,Canada,CA,North America,Transportation Options,282
+420,8,AW00029542,Germany,DE,Europe,Capital Riding Supplies,288
+422,2,AW00029543,Northeast,US,North America,Bike Boutique,275
+428,6,AW00029544,Canada,CA,North America,Finer Cycle Shop,278
+430,1,AW00029545,Northwest,US,North America,Center Cycle Shop,280
+432,10,AW00029546,United Kingdom,GB,Europe,Bulk Discount Store,289
+436,9,AW00029547,Australia,AU,Pacific,Second Bike Shop,286
+438,6,AW00029548,Canada,CA,North America,First-Rate Outlet,278
+440,5,AW00029549,Southeast,US,North America,Juvenile Sports Equipment,279
+442,1,AW00029550,Northwest,US,North America,Another Bicycle Company,283
+444,2,AW00029551,Northeast,US,North America,Fourth Bike Store,275
+446,8,AW00029552,Germany,DE,Europe,Rodeway Bike Store,288
+450,4,AW00029553,Southwest,US,North America,Unsurpassed Bikes,277
+452,3,AW00029554,Central,US,North America,Field Trip Inc,275
+454,2,AW00029555,Northeast,US,North America,Tire Company,275
+456,9,AW00029556,Australia,AU,Pacific,Uncompromising Quality Co,286
+464,6,AW00029557,Canada,CA,North America,Odometers and Accessories Company,278
+466,6,AW00029558,Canada,CA,North America,Scratch-Resistant Finishes Company,282
+472,1,AW00029559,Northwest,US,North America,Safe Cycles Shop,283
+474,4,AW00029560,Southwest,US,North America,Number 1 Supply,281
+476,5,AW00029561,Southeast,US,North America,Industrial Supplies,279
+478,4,AW00029562,Southwest,US,North America,Golf and Cycle Store,281
+480,5,AW00029563,Southeast,US,North America,Front Runner Bikes,279
+482,7,AW00029564,France,FR,Europe,Favorite Toy Distributor,290
+484,4,AW00029565,Southwest,US,North America,World Bike Discount Store,276
+488,3,AW00029566,Central,US,North America,Historic Bicycle Sales,275
+490,6,AW00029567,Canada,CA,North America,Commuter Bicycle Store,282
+492,4,AW00029568,Southwest,US,North America,Coalition Bike Company,281
+494,3,AW00029569,Central,US,North America,Travel Systems,277
+496,4,AW00029570,Southwest,US,North America,Grease and Oil Products Company,277
+498,1,AW00029571,Northwest,US,North America,Moderately-Priced Bikes Store,280
+502,5,AW00029572,Southeast,US,North America,Eighty Toy Stores,279
+504,4,AW00029573,Southwest,US,North America,Economy Bikes Company,276
+506,4,AW00029574,Southwest,US,North America,Third Bike Store,277
+508,7,AW00029575,France,FR,Europe,Atypical Bike Company,290
+510,6,AW00029576,Canada,CA,North America,Bikes for Two,282
+512,6,AW00029577,Canada,CA,North America,Metal Processing Company,278
+514,5,AW00029578,Southeast,US,North America,Widget Bicycle Specialists,279
+516,3,AW00029579,Central,US,North America,Initial Bike Company,281
+518,1,AW00029580,Northwest,US,North America,Latest Sports Equipment,283
+520,2,AW00029581,Northeast,US,North America,Modern Bike Store,275
+522,1,AW00029582,Northwest,US,North America,Raw Materials Inc,280
+524,3,AW00029583,Central,US,North America,Lots of Bikes Storehouse,277
+526,4,AW00029584,Southwest,US,North America,Futuristic Bikes,281
+528,1,AW00029585,Northwest,US,North America,Parcel Express Delivery Service,283
+532,8,AW00029586,Germany,DE,Europe,North Bike Company,288
+534,10,AW00029587,United Kingdom,GB,Europe,Prosperous Tours,289
+536,1,AW00029588,Northwest,US,North America,Nonskid Tire Company,280
+538,8,AW00029589,Germany,DE,Europe,Amalgamated Parts Shop,288
+540,3,AW00029590,Central,US,North America,Metro Bike Works,275
+542,3,AW00029591,Central,US,North America,Best o' Bikes,277
+544,2,AW00029592,Northeast,US,North America,Painters Bicycle Specialists,275
+546,3,AW00029593,Central,US,North America,Client Discount Store,277
+548,2,AW00029594,Northeast,US,North America,Eastside Sporting Goods,275
+550,9,AW00029595,Australia,AU,Pacific,Helmets and Cycles,286
+552,6,AW00029596,Canada,CA,North America,Requisite Part Supply,282
+554,5,AW00029597,Southeast,US,North America,Racks and Security Systems,279
+556,4,AW00029598,Southwest,US,North America,Mechanical Products Ltd.,281
+558,1,AW00029599,Northwest,US,North America,Commendable Bikes,283
+560,3,AW00029600,Central,US,North America,Online Bike Sellers,275
+562,6,AW00029601,Canada,CA,North America,Custom Accessories Company,278
+564,9,AW00029602,Australia,AU,Pacific,Unusual Bicycle Company,286
+566,6,AW00029603,Canada,CA,North America,Courteous Bicycle Specialists,282
+568,5,AW00029604,Southeast,US,North America,Hobby Store,279
+570,4,AW00029605,Southwest,US,North America,Professional Cycle Store,281
+574,1,AW00029606,Northwest,US,North America,Fifth Bike Store,283
+578,8,AW00029607,Germany,DE,Europe,Rambling Tours,288
+580,6,AW00029608,Canada,CA,North America,Farthest Bike Store,282
+582,8,AW00029609,Germany,DE,Europe,Excellent Bikes,288
+584,2,AW00029610,Northeast,US,North America,Curbside Universe,275
+586,1,AW00029611,Northwest,US,North America,Alternative Vehicles,280
+588,10,AW00029612,United Kingdom,GB,Europe,Channel Outlet,289
+590,7,AW00029613,France,FR,Europe,Full Sports Supply,290
+592,6,AW00029614,Canada,CA,North America,Retail Mall,282
+596,10,AW00029615,United Kingdom,GB,Europe,Metro Metals Co.,289
+598,4,AW00029616,Southwest,US,North America,Sheet Metal Manufacturing,277
+600,1,AW00029617,Northwest,US,North America,Thorough Parts and Repair Services,280
+602,10,AW00029618,United Kingdom,GB,Europe,Uttermost Bike Shop,289
+604,2,AW00029619,Northeast,US,North America,Mechanical Sports Center,275
+608,6,AW00029620,Canada,CA,North America,Two-Wheeled Transit Company,282
+610,5,AW00029621,Southeast,US,North America,Mountain Emporium,279
+612,1,AW00029622,Northwest,US,North America,Metro Cycle Shop,283
+614,4,AW00029623,Southwest,US,North America,Outdoor Sporting Goods,281
+616,5,AW00029624,Southeast,US,North America,Tread Industries,279
+618,6,AW00029625,Canada,CA,North America,Petroleum Products Distributors,282
+620,5,AW00029626,Southeast,US,North America,Tandem Bicycle Store,279
+622,6,AW00029627,Canada,CA,North America,Bikes and Motorbikes,278
+624,9,AW00029628,Australia,AU,Pacific,Budget Toy Store,286
+626,6,AW00029629,Canada,CA,North America,Camping and Sports Store,282
+628,7,AW00029630,France,FR,Europe,Ace Bicycle Supply,290
+630,4,AW00029631,Southwest,US,North America,Rural Department Store,281
+632,1,AW00029632,Northwest,US,North America,Sports Commodities,283
+634,2,AW00029633,Northeast,US,North America,Riverside Company,275
+636,8,AW00029634,Germany,DE,Europe,Bicycle Exporters,288
+638,3,AW00029635,Central,US,North America,Responsible Bike Dealers,277
+640,1,AW00029636,Northwest,US,North America,Western Bike Supplies,281
+642,4,AW00029637,Southwest,US,North America,Advanced Bike Components,277
+644,4,AW00029638,Southwest,US,North America,Aerobic Exercise Company,276
+648,6,AW00029639,Canada,CA,North America,Corner Bicycle Supply,282
+650,5,AW00029640,Southeast,US,North America,Distance Bikes,279
+652,4,AW00029641,Southwest,US,North America,Westside Plaza,281
+654,5,AW00029642,Southeast,US,North America,Ultimate Bike Shop,279
+656,1,AW00029643,Northwest,US,North America,Outstanding Cycles,283
+658,10,AW00029644,United Kingdom,GB,Europe,Vigorous Sports Store,289
+660,1,AW00029645,Northwest,US,North America,Sports Merchandise,280
+662,4,AW00029646,Southwest,US,North America,Fitness Toy Store,277
+664,2,AW00029647,Northeast,US,North America,Casual Bicycle Store,275
+666,9,AW00029648,Australia,AU,Pacific,Fitness Discount Store,286
+668,6,AW00029649,Canada,CA,North America,General Cycle Storehouse,278
+670,4,AW00029650,Southwest,US,North America,Fitness Cycling,281
+672,3,AW00029651,Central,US,North America,Good Bike Shop,277
+676,9,AW00029652,Australia,AU,Pacific,Inexpensive Parts Shop,286
+682,4,AW00029653,Southwest,US,North America,Thrilling Bike Tours,276
+684,3,AW00029654,Central,US,North America,This Area Sporting Goods,277
+686,3,AW00029655,Central,US,North America,Full-Service Bike Store,275
+688,9,AW00029656,Australia,AU,Pacific,Plastic Products Manufacturers,286
+690,9,AW00029657,Australia,AU,Pacific,Kids and Adults Cycle Shop,286
+692,2,AW00029658,Northeast,US,North America,Grand Discount Store,275
+694,4,AW00029659,Southwest,US,North America,Genuine Bike Shop,277
+696,4,AW00029660,Southwest,US,North America,Extreme Riding Supplies,276
+698,5,AW00029661,Southeast,US,North America,Bike Rims Company,279
+700,4,AW00029662,Southwest,US,North America,Fleet Bikes,276
+702,3,AW00029663,Central,US,North America,Local Hardware Factory,277
+704,2,AW00029664,Northeast,US,North America,Only Bikes and Accessories,275
+706,9,AW00029665,Australia,AU,Pacific,Rental Gallery,286
+708,6,AW00029666,Canada,CA,North America,South Bike Company,278
+710,5,AW00029667,Southeast,US,North America,Wonderful Bikes Inc.,279
+714,3,AW00029668,Central,US,North America,Discount Bicycle Specialists,277
+716,2,AW00029669,Northeast,US,North America,Famous Bike Sales and Service,275
+718,9,AW00029670,Australia,AU,Pacific,First Supplies,286
+720,6,AW00029671,Canada,CA,North America,Machines & Cycles Store,278
+722,5,AW00029672,Southeast,US,North America,Pedals Warehouse,279
+724,4,AW00029673,Southwest,US,North America,Two Wheels Cycle Store,276
+726,3,AW00029674,Central,US,North America,Westside Cycle Store,277
+728,2,AW00029675,Northeast,US,North America,Wholesale Bikes,275
+730,8,AW00029676,Germany,DE,Europe,Very Best Sports Supply,288
+732,6,AW00029677,Canada,CA,North America,Urban Sports Emporium,282
+734,5,AW00029678,Southeast,US,North America,Superlative Bikes,279
+736,8,AW00029679,Germany,DE,Europe,Primary Cycle Shop,288
+738,6,AW00029680,Canada,CA,North America,Sixth Bike Store,282
+740,5,AW00029681,Southeast,US,North America,Touring Services,279
+742,4,AW00029682,Southwest,US,North America,Vehicle Shop,281
+744,1,AW00029683,Northwest,US,North America,First Department Stores,283
+746,3,AW00029684,Central,US,North America,Grand Sport Boutique,275
+752,5,AW00029685,Southeast,US,North America,Elemental Sporting Goods,279
+754,4,AW00029686,Southwest,US,North America,Distinctive Store,281
+758,8,AW00029687,Germany,DE,Europe,Nearby Bike Mall,288
+760,3,AW00029688,Central,US,North America,Handy Bike Services,275
+762,1,AW00029689,Northwest,US,North America,Friendly Bike Shop,283
+764,1,AW00029690,Northwest,US,North America,Fashionable Bikes and Accessories,281
+766,5,AW00029691,Southeast,US,North America,Extreme Toy Store,279
+768,6,AW00029692,Canada,CA,North America,Citywide Service and Repair,282
+770,8,AW00029693,Germany,DE,Europe,Best Cycle Store,288
+772,2,AW00029694,Northeast,US,North America,Professional Sporting Goods,275
+774,1,AW00029695,Northwest,US,North America,Rugged Bikes,283
+776,4,AW00029696,Southwest,US,North America,Principal Bike Company,281
+778,5,AW00029697,Southeast,US,North America,One-Piece Handle Bars,279
+780,6,AW00029698,Canada,CA,North America,Finer Riding Supplies,282
+782,6,AW00029699,Canada,CA,North America,Neighborhood Store,278
+784,9,AW00029700,Australia,AU,Pacific,Online Bike Catalog,286
+786,2,AW00029701,Northeast,US,North America,Outdoor Equipment Store,275
+788,4,AW00029702,Southwest,US,North America,Paint Supply,277
+790,4,AW00029703,Southwest,US,North America,Preferred Bikes,276
+792,5,AW00029704,Southeast,US,North America,Rally Day Mall,279
+794,6,AW00029705,Canada,CA,North America,Rewarding Activities Company,278
+796,9,AW00029706,Australia,AU,Pacific,Rich Department Store,286
+798,5,AW00029707,Southeast,US,North America,Sales and Supply Company,275
+800,4,AW00029708,Southwest,US,North America,Stationary Bikes and Stands,277
+802,1,AW00029709,Northwest,US,North America,Successful Sales Company,280
+804,1,AW00029710,Northwest,US,North America,Downtown Hotel,281
+806,6,AW00029711,Canada,CA,North America,Certified Sports Supply,282
+808,7,AW00029712,France,FR,Europe,Registered Cycle Store,290
+810,10,AW00029713,United Kingdom,GB,Europe,Rampart Amusement Company,289
+812,6,AW00029714,Canada,CA,North America,Sundry Sporting Goods,282
+814,5,AW00029715,Southeast,US,North America,Excellent Riding Supplies,279
+816,4,AW00029716,Southwest,US,North America,Farthermost Bike Shop,281
+818,1,AW00029717,Northwest,US,North America,Suburban Cycle Shop,283
+820,2,AW00029718,Northeast,US,North America,Weekend Tours,275
+822,1,AW00029719,Northwest,US,North America,Racing Bike Outlet,283
+824,1,AW00029720,Northwest,US,North America,Utilitarian Sporting Goods,281
+826,5,AW00029721,Southeast,US,North America,Bike Goods ,279
+828,6,AW00029722,Canada,CA,North America,Vigorous Exercise Company,282
+830,8,AW00029723,Germany,DE,Europe,Showcase for Cycles,288
+832,2,AW00029724,Northeast,US,North America,Lease-a-Bike Shop,275
+834,8,AW00029725,Germany,DE,Europe,Functional Store South,288
+836,2,AW00029726,Northeast,US,North America,Active Cycling,275
+838,1,AW00029727,Northwest,US,North America,Stock Parts and Supplies,283
+840,1,AW00029728,Northwest,US,North America,Roadway Supplies,281
+842,5,AW00029729,Southeast,US,North America,Sensational Discount Store,279
+844,6,AW00029730,Canada,CA,North America,Future Bikes,282
+846,2,AW00029731,Northeast,US,North America,Super Sports Store,275
+848,4,AW00029732,Southwest,US,North America,Satin Finish Company,277
+850,4,AW00029733,Southwest,US,North America,Regional Manufacturing,281
+852,6,AW00029734,Canada,CA,North America,Original Bicycle Supply Company,282
+854,7,AW00029735,France,FR,Europe,First Center,290
+856,10,AW00029736,United Kingdom,GB,Europe,Action Bicycle Specialists,289
+858,1,AW00029737,Northwest,US,North America,Roadway Bike Emporium,280
+860,3,AW00029738,Central,US,North America,Sleek Bikes ,277
+862,4,AW00029739,Southwest,US,North America,Retail Sporting Equipment,281
+864,6,AW00029740,Canada,CA,North America,Price-Cutter Discount Bikes,282
+868,10,AW00029741,United Kingdom,GB,Europe,Central Bicycle Specialists,289
+870,1,AW00029742,Northwest,US,North America,Vast Bike Sales and Rental,280
+872,3,AW00029743,Central,US,North America,Summer Sports Place,277
+874,4,AW00029744,Southwest,US,North America,Real Sporting Goods,281
+876,8,AW00029745,Germany,DE,Europe,Versatile Sporting Goods Company,288
+878,2,AW00029746,Northeast,US,North America,Bicycle Outfitters,275
+880,1,AW00029747,Northwest,US,North America,The Bike Shop,283
+882,4,AW00029748,Southwest,US,North America,Safe Toys,281
+884,5,AW00029749,Southeast,US,North America,Qualified Sales and Repair Services,279
+886,6,AW00029750,Canada,CA,North America,Our Sporting Goods Store,282
+888,8,AW00029751,Germany,DE,Europe,Lustrous Paints and Components,288
+890,2,AW00029752,Northeast,US,North America,Expert Sports Store,275
+892,1,AW00029753,Northwest,US,North America,Coho Sports,283
+894,9,AW00029754,Australia,AU,Pacific,Jumbo Bikes,286
+896,6,AW00029755,Canada,CA,North America,Quick Delivery Service,278
+898,5,AW00029756,Southeast,US,North America,Tough and Reliable Parts,279
+900,4,AW00029757,Southwest,US,North America,Basic Sports Equipment,276
+902,4,AW00029758,Southwest,US,North America,Cash & Carry Bikes,277
+904,2,AW00029759,Northeast,US,North America,Convenient Bike Shop,275
+906,9,AW00029760,Australia,AU,Pacific,Fitness Bike Accessories,286
+908,6,AW00029761,Canada,CA,North America,General Bike Corporation,278
+910,5,AW00029762,Southeast,US,North America,Quitting Business Distributors,279
+912,4,AW00029763,Southwest,US,North America,Retail Cycle Shop,276
+914,4,AW00029764,Southwest,US,North America,Social Activities Club,277
+916,3,AW00029765,Central,US,North America,Blue Bicycle Company,275
+920,6,AW00029766,Canada,CA,North America,General Riding Supplies,278
+922,5,AW00029767,Southeast,US,North America,Parts Shop,279
+924,4,AW00029768,Southwest,US,North America,Riding Excursions,276
+926,3,AW00029769,Central,US,North America,Unique Bikes,277
+928,6,AW00029770,Canada,CA,North America,Rural Cycle Emporium,282
+930,1,AW00029771,Northwest,US,North America,Associated Bikes,281
+932,4,AW00029772,Southwest,US,North America,Modular Cycle Systems,277
+934,1,AW00029773,Northwest,US,North America,A Bike Store,280
+936,4,AW00029774,Southwest,US,North America,Journey Sporting Goods,277
+938,1,AW00029775,Northwest,US,North America,Two Bike Shops,280
+940,10,AW00029776,United Kingdom,GB,Europe,Cycles Wholesaler & Mfg.,289
+942,7,AW00029777,France,FR,Europe,Wheels Inc.,290
+944,10,AW00029778,United Kingdom,GB,Europe,Number One Bike Co.,289
+946,7,AW00029779,France,FR,Europe,Racing Supply Distributors,290
+948,6,AW00029780,Canada,CA,North America,Standard Bikes,282
+950,4,AW00029781,Southwest,US,North America,The Bicycle Accessories Company,281
+952,3,AW00029782,Central,US,North America,Active Systems,277
+954,3,AW00029783,Central,US,North America,Futuristic Sport Distributors,281
+958,4,AW00029784,Southwest,US,North America,Big-Time Bike Store,281
+960,6,AW00029785,Canada,CA,North America,The Showroom,282
+962,7,AW00029786,France,FR,Europe,Spa and Exercise Outfitters,290
+964,1,AW00029787,Northwest,US,North America,Year-Round Sports,283
+966,4,AW00029788,Southwest,US,North America,The New Bike Store,276
+970,6,AW00029789,Canada,CA,North America,Primary Bike Distributors,278
+972,9,AW00029790,Australia,AU,Pacific,Major Bicycle Store,286
+974,2,AW00029791,Northeast,US,North America,Leather and Vinyl Manufacturing,275
+976,4,AW00029792,Southwest,US,North America,Genial Bike Associates,277
+978,4,AW00029793,Southwest,US,North America,Commercial Sporting Goods,281
+980,6,AW00029794,Canada,CA,North America,Wholesale Parts,282
+982,7,AW00029795,France,FR,Europe,Steel Inc.,290
+984,10,AW00029796,United Kingdom,GB,Europe,Riding Cycles,289
+986,6,AW00029797,Canada,CA,North America,Metro Manufacturing,282
+988,5,AW00029798,Southeast,US,North America,Manufacturers Inc,279
+990,4,AW00029799,Southwest,US,North America,Locks Company,281
+992,1,AW00029800,Northwest,US,North America,Latest Accessories Sales,283
+994,2,AW00029801,Northeast,US,North America,Incomparable Bicycle Store,275
+996,8,AW00029802,Germany,DE,Europe,Hometown Riding Supplies,288
+998,6,AW00029803,Canada,CA,North America,Greater Bike Store,282
+1000,5,AW00029804,Southeast,US,North America,Games and Sport Supply Company,279
+1002,4,AW00029805,Southwest,US,North America,Distant Inn,281
+1004,1,AW00029806,Northwest,US,North America,Finer Mart,283
+1010,6,AW00029807,Canada,CA,North America,Cross-Country Riding Supplies,282
+1012,5,AW00029808,Southeast,US,North America,Stylish Department Stores,279
+1014,4,AW00029809,Southwest,US,North America,Bike World,281
+1016,1,AW00029810,Northwest,US,North America,Central Discount Store,283
+1018,5,AW00029811,Southeast,US,North America,Trusted Catalog Store,275
+1020,8,AW00029812,Germany,DE,Europe,Bicycle Warehouse Inc.,288
+1022,6,AW00029813,Canada,CA,North America,Sharp Bikes,282
+1024,5,AW00029814,Southeast,US,North America,Exemplary Cycles,279
+1026,4,AW00029815,Southwest,US,North America,Metropolitan Sports Supply,281
+1028,1,AW00029816,Northwest,US,North America,Progressive Sports,283
+1030,5,AW00029817,Southeast,US,North America,Underglaze and Finish Company,279
+1032,1,AW00029818,Northwest,US,North America,Brakes and Gears,276
+1034,3,AW00029819,Central,US,North America,The Accessories Store,277
+1036,2,AW00029820,Northeast,US,North America,Mountain Bike Store,275
+1038,9,AW00029821,Australia,AU,Pacific,Bike Part Wholesalers,286
+1040,6,AW00029822,Canada,CA,North America,Family Cycle Store,278
+1042,9,AW00029823,Australia,AU,Pacific,Popular Bike Lines,286
+1044,6,AW00029824,Canada,CA,North America,Superb Sales and Repair,278
+1046,5,AW00029825,Southeast,US,North America,Better Bike Shop,279
+1048,1,AW00029826,Northwest,US,North America,Countryside Company,276
+1050,3,AW00029827,Central,US,North America,First Bike Store,277
+1052,2,AW00029828,Northeast,US,North America,Traditional Department Stores,275
+1054,9,AW00029829,Australia,AU,Pacific,Eastside Cycle Shop,286
+1056,6,AW00029830,Canada,CA,North America,General Department Stores,278
+1060,6,AW00029831,Canada,CA,North America,Operational Manufacturing,278
+1062,6,AW00029832,Canada,CA,North America,Online Bike Warehouse,282
+1064,5,AW00029833,Southeast,US,North America,Retread Tire Company,279
+1066,4,AW00029834,Southwest,US,North America,Small Bike Shop,281
+1068,1,AW00029835,Northwest,US,North America,Superior Hardware Distributors,283
+1070,2,AW00029836,Northeast,US,North America,Fitness Sport Boutique,275
+1072,8,AW00029837,Germany,DE,Europe,Producer Goods Clearinghouse,288
+1074,2,AW00029838,Northeast,US,North America,Recreation Systems,275
+1076,8,AW00029839,Germany,DE,Europe,Rustic Bike Store,288
+1078,6,AW00029840,Canada,CA,North America,Eastside Parts Shop,282
+1080,5,AW00029841,Southeast,US,North America,Exchange Parts Inc.,279
+1082,4,AW00029842,Southwest,US,North America,First Cycle Store,281
+1084,1,AW00029843,Northwest,US,North America,Running and Cycling Gear,283
+1086,2,AW00029844,Northeast,US,North America,Seventh Bike Store,275
+1088,8,AW00029845,Germany,DE,Europe,Fast Services,288
+1090,5,AW00029846,Southeast,US,North America,General Associates,279
+1092,4,AW00029847,Southwest,US,North America,Good Toys,276
+1094,3,AW00029848,Central,US,North America,Little Bicycle Supply Shop,277
+1096,5,AW00029849,Southeast,US,North America,Retail Toy Store,279
+1100,4,AW00029850,Southwest,US,North America,All Seasons Sports Supply,277
+1102,10,AW00029851,United Kingdom,GB,Europe,Leisure Clearing House,289
+1106,6,AW00029852,Canada,CA,North America,The Commissary,282
+1108,4,AW00029853,Southwest,US,North America,Affordable Sports Equipment,281
+1110,3,AW00029854,Central,US,North America,Local Sales and Rental,277
+1112,6,AW00029855,Canada,CA,North America,Economy Center,282
+1114,7,AW00029856,France,FR,Europe,Community Department Stores,290
+1116,10,AW00029857,United Kingdom,GB,Europe,Area Sheet Metal Supply,289
+1118,1,AW00029858,Northwest,US,North America,Synthetic Materials Manufacturing,280
+1120,4,AW00029859,Southwest,US,North America,Rural Sales and Service,277
+1122,10,AW00029860,United Kingdom,GB,Europe,Tubeless Tire Company,289
+1126,3,AW00029861,Central,US,North America,Hardware Components,277
+1128,1,AW00029862,Northwest,US,North America,Retail Sporting Goods,281
+1130,6,AW00029863,Canada,CA,North America,Efficient Cycling,282
+1132,6,AW00029864,Canada,CA,North America,General Industries,282
+1134,4,AW00029865,Southwest,US,North America,Highway Bike Shop,281
+1136,4,AW00029866,Southwest,US,North America,Rental Bikes,277
+1138,1,AW00029867,Northwest,US,North America,Roving Sports,280
+1140,10,AW00029868,United Kingdom,GB,Europe,Express Bike Services,289
+1142,7,AW00029869,France,FR,Europe,Major Amusement Company,290
+1144,6,AW00029870,Canada,CA,North America,Retail Discount Store,282
+1146,4,AW00029871,Southwest,US,North America,Vale Riding Supplies,281
+1148,3,AW00029872,Central,US,North America,A Great Bicycle Company,277
+1150,1,AW00029873,Northwest,US,North America,Certified Bicycle Supply,280
+1152,10,AW00029874,United Kingdom,GB,Europe,Exceptional Cycle Services,289
+1154,7,AW00029875,France,FR,Europe,Instant Cycle Store,290
+1156,6,AW00029876,Canada,CA,North America,Leisure Activities,282
+1158,3,AW00029877,Central,US,North America,Paints and Solvents Company,281
+1160,8,AW00029878,Germany,DE,Europe,West Wind Distributors,288
+1162,6,AW00029879,Canada,CA,North America,Bikes for Kids and Adults,282
+1164,5,AW00029880,Southeast,US,North America,Consolidated Sales,279
+1166,6,AW00029881,Canada,CA,North America,Home Town Bike Store,278
+1168,5,AW00029882,Southeast,US,North America,Optimal Bikes,279
+1170,3,AW00029883,Central,US,North America,Sample Bike Store,276
+1172,3,AW00029884,Central,US,North America,Extras Sporting Goods,277
+1174,1,AW00029885,Northwest,US,North America,Sure & Reliable Sporting Goods,283
+1176,2,AW00029886,Northeast,US,North America,Eleventh Bike Store,275
+1178,8,AW00029887,Germany,DE,Europe,Enterprise Center,288
+1182,5,AW00029888,Southeast,US,North America,New and Used Bicycles,279
+1184,4,AW00029889,Southwest,US,North America,Separate Parts Corporation,281
+1186,1,AW00029890,Northwest,US,North America,Basic Bike Company,283
+1188,3,AW00029891,Central,US,North America,"Fabrikam Inc., West",275
+1192,6,AW00029892,Canada,CA,North America,Non-Slip Pedal Company,282
+1196,4,AW00029893,Southwest,US,North America,Weekend Bike Tours,281
+1198,8,AW00029894,Germany,DE,Europe,"Fabrikam Inc., East",288
+1200,6,AW00029895,Canada,CA,North America,General Supplies,282
+1202,5,AW00029896,Southeast,US,North America,Noiseless Gear Company,279
+1204,4,AW00029897,Southwest,US,North America,Racing Toys,281
+1206,1,AW00029898,Northwest,US,North America,Capable Sales and Service,280
+1210,7,AW00029899,France,FR,Europe,Pretty Bikes and Toys,290
+1212,6,AW00029900,Canada,CA,North America,Road Way Sales and Rental,282
+1214,4,AW00029901,Southwest,US,North America,Sturdy Toys,281
+1216,4,AW00029902,Southwest,US,North America,Beneficial Exercises and Activities,277
+1218,1,AW00029903,Northwest,US,North America,Fad Outlet,280
+1220,10,AW00029904,United Kingdom,GB,Europe,Commerce Bicycle Specialists,289
+1224,6,AW00029905,Canada,CA,North America,Acceptable Sales & Service,282
+1228,3,AW00029906,Central,US,North America,District Mall,277
+1230,1,AW00029907,Northwest,US,North America,Fitness Supplies,280
+1232,10,AW00029908,United Kingdom,GB,Europe,Mail Market,289
+1234,7,AW00029909,France,FR,Europe,Spare Parts Co.,290
+1236,6,AW00029910,Canada,CA,North America,Twelfth Bike Store,282
+1238,6,AW00029911,Canada,CA,North America,Consolidated Messenger,278
+1240,5,AW00029912,Southeast,US,North America,Daring Rides,279
+1242,3,AW00029913,Central,US,North America,Field Trip Store,276
+1244,4,AW00029914,Southwest,US,North America,Finish and Sealant Products,281
+1246,1,AW00029915,Northwest,US,North America,Finer Parts Shop,283
+1248,2,AW00029916,Northeast,US,North America,Glossy Bikes,275
+1250,8,AW00029917,Germany,DE,Europe,Next Door Cycles,288
+1252,6,AW00029918,Canada,CA,North America,Up-To-Date Sports,282
+1254,4,AW00029919,Southwest,US,North America,Mountain Bike Center,281
+1256,4,AW00029920,Southwest,US,North America,Specialty Sports Store,277
+1258,1,AW00029921,Northwest,US,North America,Scooters and Bikes Store,280
+1260,10,AW00029922,United Kingdom,GB,Europe,Closest Bicycle Store,289
+1262,7,AW00029923,France,FR,Europe,Roadway Bicycle Supply,290
+1266,3,AW00029924,Central,US,North America,Reasonable Bicycle Sales,281
+1270,1,AW00029925,Northwest,US,North America,Outdoor Sports Supply,280
+1272,10,AW00029926,United Kingdom,GB,Europe,Outdoor Aerobic Systems Company,289
+1274,7,AW00029927,France,FR,Europe,Self-Contained Cycle Parts Company,290
+1276,6,AW00029928,Canada,CA,North America,Metal Clearing House,282
+1278,4,AW00029929,Southwest,US,North America,Many Bikes Store,281
+1280,3,AW00029930,Central,US,North America,Largest Bike Store,277
+1282,1,AW00029931,Northwest,US,North America,Kickstands and Accessories Company,280
+1284,10,AW00029932,United Kingdom,GB,Europe,Instruments and Parts Company,289
+1286,7,AW00029933,France,FR,Europe,Neighborhood Bicycle Storehouse,290
+1288,6,AW00029934,Canada,CA,North America,Gear-Shift Bikes Limited,282
+1290,1,AW00029935,Northwest,US,North America,Frugal Bike Shop,281
+1292,1,AW00029936,Northwest,US,North America,Family Entertainment Center,280
+1294,4,AW00029937,Southwest,US,North America,Go-cart and Bike Specialists,277
+1296,4,AW00029938,Southwest,US,North America,Trailblazing Sports,281
+1298,6,AW00029939,Canada,CA,North America,Racing Partners,282
+1300,7,AW00029940,France,FR,Europe,Perfect Toys,290
+1302,10,AW00029941,United Kingdom,GB,Europe,Exhibition Showroom,289
+1304,1,AW00029942,Northwest,US,North America,Authorized Bike Sales and Rental,280
+1306,4,AW00029943,Southwest,US,North America,Two-Seater Bikes,277
+1308,4,AW00029944,Southwest,US,North America,More Bikes!,276
+1310,5,AW00029945,Southeast,US,North America,Unified Sports Company,279
+1312,6,AW00029946,Canada,CA,North America,National Manufacturing,278
+1316,2,AW00029947,Northeast,US,North America,Wheelsets Storehouse,275
+1318,4,AW00029948,Southwest,US,North America,Town Industries,277
+1320,1,AW00029949,Northwest,US,North America,Security Racks and Locks Wholesalers,281
+1322,6,AW00029950,Canada,CA,North America,Rapid Bikes,282
+1324,7,AW00029951,France,FR,Europe,Metro Sports Equipment,290
+1326,10,AW00029952,United Kingdom,GB,Europe,Nearby Sporting Goods,289
+1328,1,AW00029953,Northwest,US,North America,Front Sporting Goods,280
+1330,4,AW00029954,Southwest,US,North America,Elite Bikes,277
+1332,3,AW00029955,Central,US,North America,Catalog Store,275
+1334,4,AW00029956,Southwest,US,North America,Chic Department Stores,277
+1336,4,AW00029957,Southwest,US,North America,Eastside Department Store,276
+1338,5,AW00029958,Southeast,US,North America,Sports Sales and Rental,279
+1340,6,AW00029959,Canada,CA,North America,Cycle Merchants,278
+1342,9,AW00029960,Australia,AU,Pacific,Global Sports Outlet,286
+1344,2,AW00029961,Northeast,US,North America,Exotic Bikes,275
+1346,3,AW00029962,Central,US,North America,Fitness Hotel,277
+1350,5,AW00029963,Southeast,US,North America,Every Bike Shop,279
+1352,6,AW00029964,Canada,CA,North America,Grand Industries,278
+1354,9,AW00029965,Australia,AU,Pacific,Ideal Components,286
+1356,2,AW00029966,Northeast,US,North America,Larger Cycle Shop,275
+1358,3,AW00029967,Central,US,North America,Leading Sales & Repair,277
+1362,5,AW00029968,Southeast,US,North America,Metro Bike Mart,279
+1364,6,AW00029969,Canada,CA,North America,Tandem Sales and Service,278
+1366,9,AW00029970,Australia,AU,Pacific,Sensible Sports,286
+1368,6,AW00029971,Canada,CA,North America,Reliable Retail Center,278
+1370,9,AW00029972,Australia,AU,Pacific,Liquidation Sales,286
+1372,3,AW00029973,Central,US,North America,Friendly Bike Shop,275
+1374,3,AW00029974,Central,US,North America,Yellow Bicycle Company,277
+1376,4,AW00029975,Southwest,US,North America,Sports Products Store,276
+1378,5,AW00029976,Southeast,US,North America,Selected Distributors,279
+1380,7,AW00029977,France,FR,Europe,Impervious Paint Company,290
+1382,10,AW00029978,United Kingdom,GB,Europe,Shipping Specialists,289
+1384,7,AW00029979,France,FR,Europe,Finer Sporting Goods,290
+1386,10,AW00029980,United Kingdom,GB,Europe,Authentic Sales and Service,289
+1388,1,AW00029981,Northwest,US,North America,Official Parts Shop,280
+1392,4,AW00029982,Southwest,US,North America,Discount Tours,281
+1394,6,AW00029983,Canada,CA,North America,Tire Exchange,282
+1396,7,AW00029984,France,FR,Europe,Racing Tours,290
+1398,10,AW00029985,United Kingdom,GB,Europe,Oils and Fluids Warehouse,289
+1400,7,AW00029986,France,FR,Europe,Finished Parts Shop,290
+1404,4,AW00029987,Southwest,US,North America,Rally Master Company Inc,281
+1406,6,AW00029988,Canada,CA,North America,Professional Cyclists,282
+1408,7,AW00029989,France,FR,Europe,Sports Products Store,290
+1410,10,AW00029990,United Kingdom,GB,Europe,Exclusive Bicycle Mart,289
+1412,1,AW00029991,Northwest,US,North America,City Manufacturing,280
+1414,4,AW00029992,Southwest,US,North America,Bike Dealers Association,281
+1416,5,AW00029993,Southeast,US,North America,Pedal Systems Company,279
+1418,6,AW00029994,Canada,CA,North America,"Health Spa, Limited",282
+1420,8,AW00029995,Germany,DE,Europe,Global Bike Retailers,288
+1422,2,AW00029996,Northeast,US,North America,Fashionable Department Stores,275
+1424,1,AW00029997,Northwest,US,North America,Closeout Boutique,283
+1426,4,AW00029998,Southwest,US,North America,Bicycle Merchandise Warehouse,281
+1428,5,AW00029999,Southeast,US,North America,Spoke Manufacturers,279
+1430,6,AW00030000,Canada,CA,North America,Leather Seat Factory,282
+1432,8,AW00030001,Germany,DE,Europe,Good Bicycle Store,288
+1434,2,AW00030002,Northeast,US,North America,Endurance Bikes,275
+1436,3,AW00030003,Central,US,North America,Practical Bike Supply Company,277
+1438,1,AW00030004,Northwest,US,North America,Some Discount Store,280
+1440,10,AW00030005,United Kingdom,GB,Europe,Variety Cycling,289
+1442,7,AW00030006,France,FR,Europe,Accessories Network,290
+1444,6,AW00030007,Canada,CA,North America,Remote Bicycle Specialists,282
+1448,3,AW00030008,Central,US,North America,Friendly Neighborhood Bikes,277
+1450,2,AW00030009,Northeast,US,North America,Guaranteed Sales and Service,275
+1454,6,AW00030010,Canada,CA,North America,Recommended Bicycles,278
+1456,5,AW00030011,Southeast,US,North America,Sunny Place Bikes,279
+1458,4,AW00030012,Southwest,US,North America,Alpine Ski House,276
+1460,5,AW00030013,Southeast,US,North America,Cycles and Scooters,279
+1462,2,AW00030014,Northeast,US,North America,Small Bike Accessories Shop,275
+1464,9,AW00030015,Australia,AU,Pacific,List Price Catalog Company,286
+1466,6,AW00030016,Canada,CA,North America,Seats and Saddles Company,278
+1468,5,AW00030017,Southeast,US,North America,Village Tours,279
+1470,1,AW00030018,Northwest,US,North America,All Cycle Shop,280
+1472,10,AW00030019,United Kingdom,GB,Europe,Tachometers and Accessories,289
+1474,7,AW00030020,France,FR,Europe,Cycles Sales and Repair,290
+1476,6,AW00030021,Canada,CA,North America,Low Price Cycles,282
+1478,4,AW00030022,Southwest,US,North America,Metropolitan Manufacturing,281
+1480,3,AW00030023,Central,US,North America,Orange Bicycle Company,277
+1482,1,AW00030024,Northwest,US,North America,Riding Associates,280
+1484,10,AW00030025,United Kingdom,GB,Europe,Essential Bike Works,289
+1486,7,AW00030026,France,FR,Europe,Rural Mountain Bike Mart,290
+1490,4,AW00030027,Southwest,US,North America,Engineered Bike Systems,281
+1796,4,AW00030028,Southwest,US,North America,Professional Containers and Packaging Co.,281
+1798,6,AW00030029,Canada,CA,North America,One Bike Company,282
+1802,10,AW00030030,United Kingdom,GB,Europe,Cycling Goods,289
+1804,1,AW00030031,Northwest,US,North America,Cycle Clearance,280
+1806,3,AW00030032,Central,US,North America,Black Bicycle Company,277
+1808,1,AW00030033,Northwest,US,North America,Transport Bikes,281
+1810,1,AW00030034,Northwest,US,North America,Sellers of Cycles,280
+1812,4,AW00030035,Southwest,US,North America,Maintenance and Repair for Bicycles,277
+1814,4,AW00030036,Southwest,US,North America,Fitness Department Stores,281
+1816,6,AW00030037,Canada,CA,North America,Famous Bike Shop,278
+1818,9,AW00030038,Australia,AU,Pacific,Eastward Bike Accessories,286
+1822,3,AW00030039,Central,US,North America,Gift and Toy Store,277
+1824,4,AW00030040,Southwest,US,North America,Major Sporting Goods,276
+1826,5,AW00030041,Southeast,US,North America,Executive Discount Store,279
+1828,6,AW00030042,Canada,CA,North America,Major Cycling,282
+1830,7,AW00030043,France,FR,Europe,Getaway Inn,290
+1832,10,AW00030044,United Kingdom,GB,Europe,Downhill Bicycle Specialists,289
+1834,1,AW00030045,Northwest,US,North America,Bike Experts,280
+1836,4,AW00030046,Southwest,US,North America,Extraordinary Bike Works,277
+1838,4,AW00030047,Southwest,US,North America,Valley Bicycle Distributors,281
+1840,6,AW00030048,Canada,CA,North America,Top Sports Supply,282
+1842,7,AW00030049,France,FR,Europe,Racing Sales and Service,290
+1844,10,AW00030050,United Kingdom,GB,Europe,Metropolitan Bicycle Supply,289
+1846,1,AW00030051,Northwest,US,North America,Honest Repair Service,280
+1850,4,AW00030052,Southwest,US,North America,Wheel Gallery,281
+1852,6,AW00030053,Canada,CA,North America,Top Bike Market,278
+1856,2,AW00030054,Northeast,US,North America,Grown-up Bike Store,275
+1858,3,AW00030055,Central,US,North America,Bicycle Lines Distributors,277
+1860,4,AW00030056,Southwest,US,North America,Sparkling Paint and Finishes,276
+1862,5,AW00030057,Southeast,US,North America,Racing Association,279
+1864,6,AW00030058,Canada,CA,North America,Plastic Parts Company,278
+1866,9,AW00030059,Australia,AU,Pacific,Gears and Parts Company,286
+1868,2,AW00030060,Northeast,US,North America,Executive Gift Store,275
+1870,4,AW00030061,Southwest,US,North America,Big Cycle Mall,277
+1872,5,AW00030062,Southeast,US,North America,Budget Bike Company,279
+1874,4,AW00030063,Southwest,US,North America,Eighth Bike Store,281
+1876,1,AW00030064,Northwest,US,North America,Demand Distributors,283
+1878,2,AW00030065,Northeast,US,North America,Immediate Repair Shop,275
+1880,8,AW00030066,Germany,DE,Europe,Off-Price Bike Center,288
+1882,6,AW00030067,Canada,CA,North America,Red Bicycle Company,282
+1884,5,AW00030068,Southeast,US,North America,Retirement Activities Association,279
+1886,4,AW00030069,Southwest,US,North America,Trendy Department Stores,281
+1888,1,AW00030070,Northwest,US,North America,Vintage Sport Boutique,283
+1890,1,AW00030071,Northwest,US,North America,Travel Sports,280
+1892,10,AW00030072,United Kingdom,GB,Europe,West Side Mart,289
+1894,7,AW00030073,France,FR,Europe,The Bike Outlet,290
+1896,6,AW00030074,Canada,CA,North America,Tenth Bike Store,282
+1898,5,AW00030075,Southeast,US,North America,Valuable Bike Parts Company,279
+1900,3,AW00030076,Central,US,North America,Fun Times Club,281
+1902,5,AW00030077,Southeast,US,North America,Chain and Chain Tool Distributions,279
+1904,2,AW00030078,Northeast,US,North America,Mobile Outlet,275
+1906,8,AW00030079,Germany,DE,Europe,Regional Cycle Shop,288
+1910,1,AW00030080,Northwest,US,North America,Wingtip Toys,283
+1912,5,AW00030081,Southeast,US,North America,The Cycle Store,275
+1914,8,AW00030082,Germany,DE,Europe,Educational Services,288
+1916,6,AW00030083,Canada,CA,North America,Active Life Toys,282
+1918,5,AW00030084,Southeast,US,North America,Simple Bike Parts,279
+1924,5,AW00030085,Southeast,US,North America,Bike Products and Accessories,275
+1926,8,AW00030086,Germany,DE,Europe,Fitness Toys,288
+1928,6,AW00030087,Canada,CA,North America,Quick Parts and Service,278
+1930,5,AW00030088,Southeast,US,North America,Reliable Brake Systems,279
+1932,4,AW00030089,Southwest,US,North America,Thrifty Parts and Sales,276
+1934,4,AW00030090,Southwest,US,North America,A Typical Bike Shop,277
+1936,2,AW00030091,Northeast,US,North America,Active Transport Inc.,275
+1938,9,AW00030092,Australia,AU,Pacific,Cycle Parts and Accessories,286
+1940,6,AW00030093,Canada,CA,North America,Fasteners & Bolts Outlet,278
+1944,4,AW00030094,Southwest,US,North America,Quantity Discounts,276
+1946,4,AW00030095,Southwest,US,North America,Swift Cycles,277
+1948,2,AW00030096,Northeast,US,North America,Classic Cycle Store,275
+1950,9,AW00030097,Australia,AU,Pacific,Helpful Sales and Repair Service ,286
+1952,6,AW00030098,Canada,CA,North America,Large Bike Shop,278
+1954,5,AW00030099,Southeast,US,North America,Recreation Supplies,279
+1956,4,AW00030100,Southwest,US,North America,Wire Baskets and Parts,276
+1958,7,AW00030101,France,FR,Europe,Ultimate Bicycle Company,290
+1960,10,AW00030102,United Kingdom,GB,Europe,Sports Store,289
+1962,7,AW00030103,France,FR,Europe,Metropolitan Equipment,290
+1964,10,AW00030104,United Kingdom,GB,Europe,Extended Tours,289
+1966,1,AW00030105,Northwest,US,North America,Convenient Sales and Service,280
+1968,4,AW00030106,Southwest,US,North America,Solid Bike Parts,277
+1970,1,AW00030107,Northwest,US,North America,Permanent Finish Products,281
+1972,6,AW00030108,Canada,CA,North America,Mercantile Outlet,282
+1976,3,AW00030109,Central,US,North America,Exhilarating Cycles,275
+1978,4,AW00030110,Southwest,US,North America,Exercise Center,281
+1980,3,AW00030111,Central,US,North America,Great Bicycle Supply,277
+1982,1,AW00030112,Northwest,US,North America,Mail-Order Outlet,280
+1984,10,AW00030113,United Kingdom,GB,Europe,Nearby Cycle Shop,289
+1986,7,AW00030114,France,FR,Europe,Recreation Toy Store,290
+1988,6,AW00030115,Canada,CA,North America,Retreat Inn,282
+1990,4,AW00030116,Southwest,US,North America,Technical Parts Manufacturing,281
+1992,4,AW00030117,Southwest,US,North America,Totes & Baskets Company,277
+1994,3,AW00030118,Central,US,North America,World of Bikes,277
+1994,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1994,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1994,NULL,NULL,NULL,NULL,NULL,NULL,NULL

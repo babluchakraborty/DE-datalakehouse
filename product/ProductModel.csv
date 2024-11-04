@@ -1,0 +1,131 @@
+ProductModelID,Name,ModifiedDate
+1,Classic Vest,00:00.0
+2,Cycling Cap,00:00.0
+3,Full-Finger Gloves,00:00.0
+4,Half-Finger Gloves,00:00.0
+5,HL Mountain Frame,00:00.0
+6,HL Road Frame,00:00.0
+7,HL Touring Frame,34:29.0
+8,LL Mountain Frame,56:38.3
+9,LL Road Frame,00:00.0
+10,LL Touring Frame,34:29.0
+11,Long-Sleeve Logo Jersey,00:00.0
+12,Men's Bib-Shorts,00:00.0
+13,Men's Sports Shorts,00:00.0
+14,ML Mountain Frame,00:00.0
+15,ML Mountain Frame-W,00:00.0
+16,ML Road Frame,00:00.0
+17,ML Road Frame-W,00:00.0
+18,Mountain Bike Socks,00:00.0
+19,Mountain-100,00:00.0
+20,Mountain-200,00:00.0
+21,Mountain-300,00:00.0
+22,Mountain-400-W,00:00.0
+23,Mountain-500,56:38.3
+24,Racing Socks,00:00.0
+25,Road-150,00:00.0
+26,Road-250,00:00.0
+27,Road-350-W,00:00.0
+28,Road-450,00:00.0
+29,Road-550-W,00:00.0
+30,Road-650,00:00.0
+31,Road-750,56:38.3
+32,Short-Sleeve Classic Jersey,00:00.0
+33,Sport-100,00:00.0
+34,Touring-1000,56:38.3
+35,Touring-2000,56:38.3
+36,Touring-3000,56:38.3
+37,Women's Mountain Shorts,00:00.0
+38,Women's Tights,00:00.0
+39,Mountain-400,00:00.0
+40,Road-550,00:00.0
+41,Road-350,56:38.3
+42,LL Mountain Front Wheel,56:38.3
+43,Touring Rear Wheel,34:29.0
+44,Touring Front Wheel,34:29.0
+45,ML Mountain Front Wheel,00:00.0
+46,HL Mountain Front Wheel,00:00.0
+47,LL Touring Handlebars,34:29.0
+48,HL Touring Handlebars,34:29.0
+49,LL Road Front Wheel,00:00.0
+50,ML Road Front Wheel,00:00.0
+51,HL Road Front Wheel,00:00.0
+52,LL Mountain Handlebars,00:00.0
+53,Touring Pedal,34:29.0
+54,ML Mountain Handlebars,00:00.0
+55,HL Mountain Handlebars,00:00.0
+56,LL Road Handlebars,00:00.0
+57,ML Road Handlebars,00:00.0
+58,HL Road Handlebars,00:00.0
+59,LL Headset,00:00.0
+60,ML Headset,00:00.0
+61,HL Headset,00:00.0
+62,LL Mountain Pedal,00:00.0
+63,ML Mountain Pedal,00:00.0
+64,HL Mountain Pedal,00:00.0
+65,ML Touring Seat/Saddle,00:00.0
+66,LL Touring Seat/Saddle,34:29.0
+67,HL Touring Seat/Saddle,34:29.0
+68,LL Road Pedal,00:00.0
+69,ML Road Pedal,00:00.0
+70,HL Road Pedal,00:00.0
+71,LL Mountain Seat/Saddle 1,00:00.0
+72,ML Mountain Seat/Saddle 1,00:00.0
+73,HL Mountain Seat/Saddle 1,00:00.0
+74,LL Road Seat/Saddle 2,00:00.0
+75,ML Road Seat/Saddle 1,00:00.0
+76,HL Road Seat/Saddle 1,00:00.0
+77,ML Road Rear Wheel,00:00.0
+78,HL Road Rear Wheel,00:00.0
+79,LL Mountain Seat/Saddle 2,00:00.0
+80,ML Mountain Seat/Saddle 2,00:00.0
+81,HL Mountain Seat/Saddle 2,00:00.0
+82,LL Road Seat/Saddle 1,00:00.0
+83,ML Road Seat/Saddle 2,00:00.0
+84,HL Road Seat/Saddle 2,00:00.0
+85,LL Mountain Tire,00:00.0
+86,ML Mountain Tire,00:00.0
+87,HL Mountain Tire,00:00.0
+88,LL Road Tire,00:00.0
+89,ML Road Tire,00:00.0
+90,HL Road Tire,00:00.0
+91,Touring Tire,00:00.0
+92,Mountain Tire Tube,00:00.0
+93,Road Tire Tube,00:00.0
+94,Touring Tire Tube,00:00.0
+95,LL Bottom Bracket,00:00.0
+96,ML Bottom Bracket,00:00.0
+97,HL Bottom Bracket,00:00.0
+98,Chain,00:00.0
+99,LL Crankset,00:00.0
+100,ML Crankset,00:00.0
+101,HL Crankset,00:00.0
+102,Front Brakes,00:00.0
+103,Front Derailleur,00:00.0
+104,LL Fork,00:00.0
+105,ML Fork,00:00.0
+106,HL Fork,00:00.0
+107,Hydration Pack,00:00.0
+108,Taillight,00:00.0
+109,Headlights - Dual-Beam,00:00.0
+110,Headlights - Weatherproof,00:00.0
+111,Water Bottle,00:00.0
+112,Mountain Bottle Cage,00:00.0
+113,Road Bottle Cage,00:00.0
+114,Patch kit,00:00.0
+115,Cable Lock,00:00.0
+116,Minipump,00:00.0
+117,Mountain Pump,00:00.0
+118,Hitch Rack - 4-Bike,00:00.0
+119,Bike Wash,00:00.0
+120,Touring-Panniers,00:00.0
+121,Fender Set - Mountain,00:00.0
+122,All-Purpose Bike Stand,00:00.0
+123,LL Mountain Rear Wheel,00:00.0
+124,ML Mountain Rear Wheel,00:00.0
+125,HL Mountain Rear Wheel,00:00.0
+126,LL Road Rear Wheel,00:00.0
+127,Rear Derailleur,00:00.0
+128,Rear Brakes,00:00.0
+NULL,NULL,NULL
+NULL,NULL,NULL

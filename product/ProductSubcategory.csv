@@ -1,0 +1,40 @@
+ProductSubcategoryID,ProductCategoryID,Name,ModifiedDate
+1,1,Mountain Bikes,00:00.0
+2,1,Road Bikes,00:00.0
+3,1,Touring Bikes,00:00.0
+4,2,Handlebars,00:00.0
+5,2,Bottom Brackets,00:00.0
+6,2,Brakes,00:00.0
+7,2,Chains,00:00.0
+8,2,Cranksets,00:00.0
+9,2,Derailleurs,00:00.0
+10,2,Forks,00:00.0
+11,2,Headsets,00:00.0
+12,2,Mountain Frames,00:00.0
+13,2,Pedals,00:00.0
+14,2,Road Frames,00:00.0
+15,2,Saddles,00:00.0
+16,2,Touring Frames,00:00.0
+17,2,Wheels,00:00.0
+18,3,Bib-Shorts,00:00.0
+19,3,Caps,00:00.0
+20,3,Gloves,00:00.0
+21,3,Jerseys,00:00.0
+22,3,Shorts,00:00.0
+23,3,Socks,00:00.0
+24,3,Tights,00:00.0
+25,3,Vests,00:00.0
+26,4,Bike Racks,00:00.0
+27,4,Bike Stands,00:00.0
+28,4,Bottles and Cages,00:00.0
+29,4,Cleaners,00:00.0
+30,4,Fenders,00:00.0
+31,4,Helmets,00:00.0
+32,4,Hydration Packs,00:00.0
+33,4,Lights,00:00.0
+34,4,Locks,00:00.0
+35,4,Panniers,00:00.0
+36,4,Pumps,00:00.0
+37,4,Tires and Tubes,00:00.0
+37,NULL,NULL,NULL
+37,NULL,NULL,NULL
